@@ -29,10 +29,11 @@
 
 ## Структура репозитория
 
+```
 /labs
   /lab01
     /presentation
-       • image
+       - image
        • .DS_Store
        • .projectile
        • .texlabroot
@@ -63,5 +64,5 @@
       - report.pdf
     .DS_Store
   /...
-
+```
 Каждая лабораторная работа имеет свою папку с соответствующими файлами и отчетами.
