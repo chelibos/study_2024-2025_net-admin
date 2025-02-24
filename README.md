@@ -34,13 +34,13 @@
   /lab01
     /presentation
        - image
-       • .DS_Store
-       • .projectile
-       • .texlabroot
-       • Makefile
-       • presentation.html
-       • presentation.md
-       • presentation.pdf
+       - .DS_Store
+       - .projectile
+       - .texlabroot
+       - Makefile
+       - presentation.html
+       - presentation.md
+       - presentation.pdf
     /report
       /bib
         - cite.bib
