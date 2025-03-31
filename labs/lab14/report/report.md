@@ -75,6 +75,7 @@ header-includes:
 
 1.  (рис. [-@fig:00]).
 
+![](image/.png){#fig:00 width=70%}
 
 
 # Вывод
@@ -82,4 +83,11 @@ header-includes:
 
 
 # Ответ на вопросы
+
+
+
+# Список литературы {.unnumbered}
+
+::: {#refs}
+:::
 
